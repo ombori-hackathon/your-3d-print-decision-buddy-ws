@@ -1,0 +1,6 @@
+[submodule "apps/macos-client"]
+	path = apps/macos-client
+	url = https://github.com/ombori-hackathon/your-3d-print-decision-buddy-macos.git
+[submodule "services/api"]
+	path = services/api
+	url = https://github.com/ombori-hackathon/your-3d-print-decision-buddy-api.git
